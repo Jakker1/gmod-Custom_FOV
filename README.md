@@ -9,3 +9,4 @@ Set '0' to disable the mod
 
 * Fixed thirdperson in vehicles<br/>
 * Fixed zoom with the HEV suit and sniper scopes
+* Add command 'setfov' to the console
